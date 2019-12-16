@@ -1,0 +1,18 @@
+{
+    "name": "week1",
+    "version": "1.0.0",
+    "description": "week1 practices  for typescript",
+    "main": "index.js",
+    "scripts": {
+        "start": "tsc index.ts && node index.js"
+    },
+    "keywords": [
+        "node",
+        "typescript"
+    ],
+    "author": "begaak",
+    "license": "MIT",
+    "dependencies": {
+        "typescript-compiler": "^1.4.1-2"
+    }
+}
