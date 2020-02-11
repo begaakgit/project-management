@@ -1,18 +1,31 @@
 {
-    "name": "week1",
-    "version": "1.0.0",
-    "description": "week1 practices  for typescript",
-    "main": "index.js",
+    "name": "typescript-react",
+    "version": "0.0.1",
+    "keywords": ["react", "typescript", "webpack", "circleci", "tslint"],
+    "author": "Rashid Iqbal",
+    "license": "ISC",
+    "description": "",
     "scripts": {
-        "start": "tsc index.ts && node index.js"
+        "start": "react-scripts-ts start",
+        "build": "react-scripts-ts build",
+        "test": "react-scripts-ts test --env=jsdom",
+        "eject": "react-scripts-ts eject"
     },
-    "keywords": [
-        "node",
-        "typescript"
-    ],
-    "author": "begaak",
-    "license": "MIT",
+    "devDependencies": {
+        "@types/react": "^16.9.19",
+        "@types/react-dom": "^16.9.5",
+        "@types/node": "^11.9.4",
+        "source-map-loader": "^0.2.4",
+        "ts-loader": "^6.2.1",
+        "typescript": "^3.7.5",
+        "webpack": "^4.41.5",
+        "webpack-cli": "^3.3.10"
+    },
     "dependencies": {
-        "typescript-compiler": "^1.4.1-2"
+        "react": "^16.12.0",
+        "react-dom": "^16.12.0",
+        "react-scripts": "3.3.1",
+        "react-scripts-ts": "3.1.0"
     }
+
 }
