@@ -1,0 +1,39 @@
+in the design folder there will be have folders which in turn have style sheets for each design concepts
+    like for material design there wil have material/b-material.sass
+                                            flat/b-flat.css
+                                            metro/b-metro.css
+                                            cupertino/b-cupertino.css
+
+
+attribute naming will be discussed
+
+like we will use 
+    b-btn for material button
+    b-btn for metro button, 
+    b-btn for flat button
+    and b-btn for cupertino
+
+    but only body will have a class b-material or b-metro or b-flat or b-cupertino
+
+
+e.g 
+
+
+b-btn {
+    background-color:$m-primary;
+    box-shadow: $btn-box-shadow;
+}
+
+b-btn {
+    background-color: $f-primary;
+    // flat buttons use no borders
+    // no box-shadow
+}
+
+b-btn {
+    background-color: $mtr-primary;
+    border:$mtr-btn-border;
+}
+
+
+

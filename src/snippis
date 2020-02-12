@@ -1,0 +1,20 @@
+                    looping insdie the tsx having object values 
+                     {
+                                
+                                this.props.values.forEach(item => {
+
+                                {<li key={Math.random()} className="nav-item active">
+                                    {console.log(`..... ${item['title']}`)}
+                                {console.log(`...${item['link']}`)} 
+                                    <a className="nav-link" href={item['link']} >{item['title']}<span className="sr-only">(current)</span></a>
+                                </li>}
+                                })
+                            } 
+
+                            {this.props.values.map((value, index) => {
+                                return (
+                                    <li key={index} className="nav-item active">
+                                        <a className="nav-link" href={value['link']} >{value['title']}<span className="sr-only">(current)</span></a>
+                                    </li>
+                                )
+                            })}
