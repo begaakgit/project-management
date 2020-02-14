@@ -21,6 +21,8 @@ export class Images extends Component<IPropsImage, IStateImage> {
                             <img style={style} key={index} className={item['className']} id={item['id']} src={item['src']} alt="image"/>
                         )
                     })
+
+                // JSON.stringify(this.props.values)
                 }
                
             </div>

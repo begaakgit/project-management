@@ -3,16 +3,8 @@ import * as React from 'react'
 import { Container } from '../layouts/container/container'
 import { Sidebar } from '../components/sidebar/sidebar'
 import { Navbar } from '../components/header/navbar/index'
-import { propsNavbar, propsNavbar_sidebar, propsNavbar_sidebarProjects, propsNavbar_sidebarTeam } from '../data/props/components/header/navbar/index'
+import { propsNavbar_sidebar, propsNavbar_sidebarProjects, propsNavbar_sidebarTeam } from '../data/props/components/header/navbar/index'
 import { MainRight } from '../components/main/mainright'
-import { FormAuth } from '../components/form/auth'
-import { propsForm } from '../data/props/components/form/auth/form/index'
-import { propsInput } from '../data/props/components/form/input'
-import Input from '../components/form/input'
-import { TextArea } from '../components/form/textarea'
-import { propsTextarea } from '../data/props/components/form/textarea'
-import { Button } from '../components/form/button'
-import { Ipropsbutton } from '../data/props/components/form/Button'
 import { Images } from '../components/image'
 import { propsimage } from '../data/props/components/images'
 import { propsMainRight } from '../data/props/components/main/mainRight'
@@ -20,9 +12,13 @@ import { SearchBar } from '../components/form/search'
 import { propsSearchBar } from '../data/props/components/form/search'
 import { CardInline } from '../components/cards/Inline'
 import { propsCardInline } from '../data/props/components/cards/CardInline'
+import { Button } from '../components/form/button'
+import { AlertDismissible } from '../components/alert/dismissible'
+import { ProgressBar } from '../components/progressbar/animated'
+import { List } from '../components/lists'
 
 
-export class App extends Component {
+export class Home extends Component {
     public render() {
         return (
 
@@ -66,27 +62,33 @@ export class App extends Component {
 
                 </Sidebar>
                 <div className="col-lg-9">
-                    <h4>Profile Setting</h4>
-                    <Navbar {...propsNavbar} />
+                    <h4>Home</h4>
+                    <Button {...{
+                        values: [
+                            {
+                                type: "button",
+                                className: "btn btn-success float-right",
+                                text: "+Add",
+                                id: "add"
+                            }
+                        ]
+                    }} />
+
                     <MainRight {...propsMainRight}>
+                        <div className="col-lg-6">
+                            <AlertDismissible
+                                text='Confirm your Email Address for Company@gmail.com'
+                            />
+                            <ProgressBar />
 
-                        <FormAuth {...propsForm}>
-                            <Images {...propsimage} />
-                            <Input {...propsInput} />
-                            <TextArea {...propsTextarea} />
-                            <Button {...Ipropsbutton} />
-                            {/* <Button {...{
-                                values: [
-                                    {
-                                        type: "button",
-                                        className: "btn btn-secondary",
-                                        text: "cancel",
-                                        id: "cancel"
-                                    }
-                                ]
-                            }} /> */}
-                        </FormAuth>
+                            <List/>
 
+                        </div>
+
+
+                        <div className="col-lg-3">
+                        <List/>
+                        </div>
 
                     </MainRight>
 

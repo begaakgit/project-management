@@ -1,7 +1,7 @@
 import { Component } from 'react'
 import * as React from 'react'
 import { IPropsNavbar } from '../../../data/props/components/header/navbar/index'
-// import { Images } from '../../image'
+//import { Images } from '../../image'
 
 
 interface StateNav {
@@ -56,19 +56,14 @@ export class Navbar extends Component<IPropsNavbar, StateNav> {
                             <li key={index} className="nav-item  justifiy-content-around">
                                 <a id={value['id']} className="nav-link" href={value['link']}>
                                     {value['title']}
-                                    {JSON.stringify(value['images'])}
-
-                                    {/* <Images  {...value['images']} /> */}
-
-                                    {
-
-                                        Array.from(value['images']).map((item, index) => {
-
+                                    {/* {JSON.stringify(value['images'])} */}
+                                    {/* {
+                                        value['images'].map((item, index) => {
+                                            return (
+                                                <img key={index} className={item['className']} id={item['id']} src={item['src']} alt="image" />
+                                            )
                                         })
-                                    }
-
-
-
+                                    } */}
                                 </a>
                             </li>
                         )
