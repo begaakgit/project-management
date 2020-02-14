@@ -1,18 +1,19 @@
 import { Component } from 'react'
 import * as React from 'react'
-
-export class MainRight extends Component {
+import { IpropsMainRight } from '../../../data/props/components/main/mainRight'
+interface IStateMainRight{
+    values:(object)[]
+}
+export class MainRight extends Component<IpropsMainRight,IStateMainRight> {
     constructor(props) {
         super(props)
     
-        this.state = {
-             
-        }
+       
     }
     
     public render() {
         return (
-            <div className={"Container"}>
+            <div className={this.props.className}>
                 {this.props.children}
             </div>
         )

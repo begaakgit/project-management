@@ -1,39 +1,37 @@
 
-export interface IPropsInput { 
+export interface IPropsInput {
     values: (object)[]
 }
 
 
-export const propsInput: IPropsInput = { 
+export const propsInput: IPropsInput = {
     values: [
-            { 
-                label: "first name",
-                type: "text",
-                placeholder: "", 
-                name: "first_name",
-                id:""
-            }, 
-            { 
-                label: "first name",
-                type: "text",
-                placeholder: "", 
-                name: "first_name"
-            }, 
-            { 
-                label: "telephone",
-                type: "tel",
-                placeholder: "", 
-                name: "first_name"
-            },  
-             
-                {
-                    label: "telephone",
-                    type: "tel",
-                    placeholder: "", 
-                    name: "first_name"
-                }, 
-           
-            ]
-    
+        {
+            label: "Name",
+            type: "text",
+            placeholder: "Name",
+            name: "name",
+            id: "name"
+        },
+        {
+            label: "Role",
+            type: "text",
+            placeholder: "Role",
+            name: "role"
+        },
+        {
+            label: "Teams",
+            type: "text",
+            placeholder: "",
+            name: "team"
+        },
+        {
+            label: "Chose File",
+            type: "file",
+            placeholder: "",
+            name: "file"
+        }
+    ]
+
 
 }

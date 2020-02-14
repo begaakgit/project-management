@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="1163" viewBox="0 0 1440 1163">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Add%20a%20Team-image2.png"/>
+    </pattern>
+    <clipPath id="clip-Add_a_Team">
+      <rect width="1440" height="1163"/>
+    </clipPath>
+  </defs>
+  <g id="Add_a_Team" data-name="Add a Team" clip-path="url(#clip-Add_a_Team)">
+    <rect width="1440" height="1163" fill="#eeebe5"/>
+    <image id="Bg" width="1440" height="1163" xlink:href="Add%20a%20Team-image.png"/>
+    <rect id="Overlay" width="1440" height="1163" fill="rgba(23,29,23,0.8)"/>
+    <g id="Modal" transform="translate(422 367)">
+      <rect id="Base" width="595" height="429" rx="10" fill="#fff"/>
+      <path id="Close_Icon" data-name="Close Icon" d="M9.085,8l6.69-6.69A.767.767,0,0,0,14.69.225L8,6.915,1.31.226A.767.767,0,0,0,.225,1.311L6.915,8,.226,14.69A.767.767,0,1,0,1.31,15.775L8,9.085l6.69,6.69a.767.767,0,0,0,1.084-1.085Z" transform="translate(548.999 44.999)" opacity="0.5"/>
+      <g id="Button" transform="translate(30 344)">
+        <rect id="Base-2" data-name="Base" width="535" height="50" rx="25" transform="translate(0)" fill="#cef9c6"/>
+        <text id="Create_Team" data-name="Create Team" transform="translate(267.5 30)" fill="#1d201c" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-40.534" y="0">Create Team</tspan></text>
+      </g>
+      <g id="Field" transform="translate(30 134)">
+        <rect id="Field-2" data-name="Field" width="535" height="50" rx="8" transform="translate(0 30)" fill="#eaeaea"/>
+        <text id="e.g_Designer_Develo" data-name="e.g Designer, Develo" transform="translate(20 60)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">e.g Designer, Developers or Finance</tspan></text>
+        <text id="Name" transform="translate(0 20)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Name</tspan></text>
+      </g>
+      <g id="Field-3" data-name="Field" transform="translate(30 234)">
+        <rect id="Field-4" data-name="Field" width="535" height="50" rx="8" transform="translate(0 30)" fill="#eaeaea"/>
+        <g id="User" transform="translate(15 40)">
+          <rect id="Base-3" data-name="Base" width="187" height="30" rx="15" fill="#fff"/>
+          <path id="Delete" d="M5.11,4.5,8.874.737a.432.432,0,0,0-.61-.61L4.5,3.89.737.127a.432.432,0,0,0-.61.61L3.89,4.5.127,8.263a.431.431,0,1,0,.61.61L4.5,5.11,8.263,8.874a.431.431,0,0,0,.61-.61Z" transform="translate(162.999 10.999)" opacity="0.5"/>
+          <text id="Jacqueline_Asong" data-name="Jacqueline Asong" transform="translate(40 20)" fill="#131313" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Jacqueline Asong</tspan></text>
+          <rect id="Pic" width="30" height="30" rx="15" fill="url(#pattern)"/>
+        </g>
+        <text id="Members" transform="translate(0 20)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Members</tspan></text>
+      </g>
+      <rect id="Divider" width="595" height="1" transform="translate(1 103)" fill="#ececec"/>
+      <text id="Title" transform="translate(30 62)" fill="#131313" font-size="26" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Add a New Team</tspan></text>
+    </g>
+  </g>
+</svg>

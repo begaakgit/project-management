@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="932" viewBox="0 0 1440 932">
+  <defs>
+    <clipPath id="clip-Sign_Up">
+      <rect width="1440" height="932"/>
+    </clipPath>
+  </defs>
+  <g id="Sign_Up" data-name="Sign Up" clip-path="url(#clip-Sign_Up)">
+    <rect width="1440" height="932" fill="#eeebe5"/>
+    <rect id="Base" width="505" height="692" rx="8" transform="translate(468 120)" fill="#fff"/>
+    <g id="Button" transform="translate(498 682)">
+      <rect id="Base-2" data-name="Base" width="255" height="50" rx="25" fill="#cef9c6"/>
+      <text id="Sign_Up-2" data-name="Sign Up" transform="translate(127.5 30)" fill="#1d201c" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-25.816" y="0">Sign Up</tspan></text>
+    </g>
+    <g id="Button-2" data-name="Button" transform="translate(498 341)">
+      <rect id="Base-3" data-name="Base" width="255" height="50" rx="25" fill="#cef9c6"/>
+      <text id="Use_Google_Account" data-name="Use Google Account" transform="translate(127.5 30)" fill="#1d201c" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-66.551" y="0">Use Google Account</tspan></text>
+    </g>
+    <rect id="Divider" width="445" height="1" transform="translate(498 421)" fill="#ececec"/>
+    <g id="Password" transform="translate(498 562)">
+      <rect id="Field" width="445" height="50" rx="8" transform="translate(0 30)" fill="#eaeaea"/>
+      <text id="Name" transform="translate(0 20)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Password</tspan></text>
+    </g>
+    <g id="Email" transform="translate(498 462)">
+      <rect id="Field-2" data-name="Field" width="445" height="50" rx="8" transform="translate(0 30)" fill="#eaeaea"/>
+      <text id="emileesimchenko_comp" data-name="emileesimchenko@comp" transform="translate(20 60)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">emileesimchenko@company.com</tspan></text>
+      <text id="Name-2" data-name="Name" transform="translate(0 20)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Email</tspan></text>
+    </g>
+    <path id="Logo" d="M10.031,59.728,1.28,51.013a4.366,4.366,0,0,1,6.187-6.161l5.653,5.63,14.4-14.353a4.4,4.4,0,0,1,6.2.009,4.347,4.347,0,0,1,0,6.161l-17.5,17.429a4.4,4.4,0,0,1-6.187,0Zm38.093-7.442a4.357,4.357,0,1,1,0-8.715h17.5a4.357,4.357,0,1,1,0,8.715ZM10.031,24.861,1.28,16.146A4.366,4.366,0,0,1,7.466,9.985l5.653,5.639L27.524,1.27a4.4,4.4,0,0,1,6.2.009,4.348,4.348,0,0,1,0,6.161L16.217,24.87a4.4,4.4,0,0,1-3.1,1.272A4.341,4.341,0,0,1,10.031,24.861Zm38.093-7.434a4.357,4.357,0,1,1,0-8.715h17.5a4.357,4.357,0,1,1,0,8.715Z" transform="translate(498 200)" fill="#ffc200"/>
+  </g>
+</svg>

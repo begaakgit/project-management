@@ -1,0 +1,581 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="1154" viewBox="0 0 1440 1154">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Calendar-image.png"/>
+    </pattern>
+    <pattern id="pattern-2" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Calendar-image2.png"/>
+    </pattern>
+    <pattern id="pattern-3" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Calendar-image3.png"/>
+    </pattern>
+    <pattern id="pattern-4" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Calendar-image4.png"/>
+    </pattern>
+    <pattern id="pattern-5" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Calendar-image5.png"/>
+    </pattern>
+    <pattern id="pattern-6" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Calendar-image6.png"/>
+    </pattern>
+    <pattern id="pattern-7" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Calendar-image7.png"/>
+    </pattern>
+    <pattern id="pattern-8" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Calendar-image8.png"/>
+    </pattern>
+    <pattern id="pattern-9" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Calendar-image9.png"/>
+    </pattern>
+    <clipPath id="clip-path">
+      <rect id="Mask" width="20" height="20" rx="4" fill="#ffc200"/>
+    </clipPath>
+    <pattern id="pattern-10" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Calendar-image10.png"/>
+    </pattern>
+    <pattern id="pattern-11" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Calendar-image11.png"/>
+    </pattern>
+    <pattern id="pattern-12" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Calendar-image12.png"/>
+    </pattern>
+    <pattern id="pattern-13" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Calendar-image13.png"/>
+    </pattern>
+    <clipPath id="clip-path-5">
+      <rect width="110" height="40" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect width="1170" height="136" fill="none"/>
+    </clipPath>
+    <pattern id="pattern-14" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Calendar-image14.png"/>
+    </pattern>
+    <pattern id="pattern-15" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Calendar-image15.png"/>
+    </pattern>
+    <pattern id="pattern-16" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Calendar-image16.png"/>
+    </pattern>
+    <clipPath id="clip-path-7">
+      <rect id="Mask-5" data-name="Mask" width="40" height="40" rx="8" fill="#ffc200"/>
+    </clipPath>
+    <clipPath id="clip-Calendar">
+      <rect width="1440" height="1154"/>
+    </clipPath>
+  </defs>
+  <g id="Calendar" clip-path="url(#clip-Calendar)">
+    <rect width="1440" height="1154" fill="#eeebe5"/>
+    <g id="Navigation">
+      <rect id="Navigation_background" data-name="Navigation background" width="270" height="1154" fill="rgba(0,0,0,0)"/>
+      <g id="Navigation-2" data-name="Navigation">
+        <rect id="Menu_Base" data-name="Menu Base" width="270" height="1154"/>
+        <g id="Invite" transform="translate(30 1077)">
+          <path id="Underline" d="M0,.5H101.5" transform="translate(0 20)" fill="none" stroke="#ffc200" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1" opacity="0.5"/>
+          <text id="Invite_your_team_and" data-name="Invite your team and" fill="#ffc200" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="15">Invite your team</tspan><tspan y="15" xml:space="preserve" fill="#fff"> and </tspan><tspan x="0" y="37" fill="#fff">start collaborating!</tspan><tspan fill="#fff" font-family="Heebo"><tspan x="0" y="59"></tspan></tspan></text>
+        </g>
+        <g id="Teams" transform="translate(0 695)">
+          <g id="Add_a_Team" data-name="Add a Team" transform="translate(0 148)">
+            <rect id="Invisible_Base" data-name="Invisible Base" width="270" height="40" fill="rgba(255,255,255,0)"/>
+            <text id="_Add_a_Team" data-name="+ Add a Team" transform="translate(30 26)" fill="#ffc200" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">+ Add a Team</tspan></text>
+          </g>
+          <g id="Frontend" transform="translate(0 108)">
+            <rect id="Invisible_Base-2" data-name="Invisible Base" width="270" height="40" fill="rgba(255,255,255,0)"/>
+            <text id="Frontend-2" data-name="Frontend" transform="translate(30 26)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Frontend</tspan></text>
+            <circle id="Oval" cx="10" cy="10" r="10" transform="translate(230 10)" fill="url(#pattern)"/>
+            <circle id="Oval-2" data-name="Oval" cx="10" cy="10" r="10" transform="translate(205 10)" fill="url(#pattern-2)"/>
+            <circle id="Oval-3" data-name="Oval" cx="10" cy="10" r="10" transform="translate(180 10)" fill="url(#pattern-3)"/>
+            <circle id="Oval-4" data-name="Oval" cx="10" cy="10" r="10" transform="translate(155 10)" fill="url(#pattern-4)"/>
+          </g>
+          <g id="Backend" transform="translate(0 68)">
+            <rect id="Invisible_Base-3" data-name="Invisible Base" width="270" height="40" fill="rgba(255,255,255,0)"/>
+            <circle id="Oval-5" data-name="Oval" cx="10" cy="10" r="10" transform="translate(230 10)" fill="url(#pattern-5)"/>
+            <circle id="Oval-6" data-name="Oval" cx="10" cy="10" r="10" transform="translate(205 10)" fill="url(#pattern-6)"/>
+            <text id="Backend-2" data-name="Backend" transform="translate(30 26)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Backend</tspan></text>
+          </g>
+          <g id="Designers" transform="translate(0 28)">
+            <rect id="Invisible_Base-4" data-name="Invisible Base" width="270" height="40" fill="rgba(255,255,255,0)"/>
+            <circle id="Oval-7" data-name="Oval" cx="10" cy="10" r="10" transform="translate(230 10)" fill="url(#pattern-7)"/>
+            <circle id="Oval-8" data-name="Oval" cx="10" cy="10" r="10" transform="translate(205 10)" fill="url(#pattern-8)"/>
+            <circle id="Oval-9" data-name="Oval" cx="10" cy="10" r="10" transform="translate(180 10)" fill="url(#pattern-9)"/>
+            <text id="Designers-2" data-name="Designers" transform="translate(30 26)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Designers</tspan></text>
+          </g>
+          <text id="Teams-2" data-name="Teams" transform="translate(30 13)" fill="#878787" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">TEAMS</tspan></text>
+        </g>
+        <g id="Projects" transform="translate(0 437)">
+          <g id="Add_a_Project" data-name="Add a Project" transform="translate(0 188)">
+            <rect id="Invisible_Base-5" data-name="Invisible Base" width="270" height="40" fill="rgba(255,255,255,0)"/>
+            <text id="_Add_a_Project" data-name="+ Add a Project" transform="translate(30 26)" fill="#ffc200" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">+ Add a Project</tspan></text>
+          </g>
+          <g id="Item" transform="translate(0 148)">
+            <rect id="Invisible_Base-6" data-name="Invisible Base" width="270" height="40" fill="rgba(255,255,255,0)"/>
+            <text id="Communication_Tool" data-name="Communication Tool" transform="translate(60 26)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Communication Tool</tspan></text>
+            <g id="Icon" transform="translate(30 10)">
+              <rect id="Mask-6" data-name="Mask" width="20" height="20" rx="4" fill="#ffc200"/>
+              <g id="Icon-2" data-name="Icon" clip-path="url(#clip-path)">
+                <path id="Rectangle_2_Copy_2" data-name="Rectangle 2 Copy 2" d="M25.2,0V20H0Q3.219,9.7,12.335,8.066T25.2,0Z" transform="translate(-5.102 4.281)" fill="red"/>
+                <path id="Rectangle_2" data-name="Rectangle 2" d="M15.992,11.315C24.705,8.9,25.2,0,25.2,0V19.9H0s4.864-5.626,7.926-7.086S13.065,12.126,15.992,11.315Z" transform="translate(-5.102 4.38)" fill="#753ad7"/>
+              </g>
+            </g>
+          </g>
+          <g id="Item-2" data-name="Item" transform="translate(0 108)">
+            <rect id="Invisible_Base-7" data-name="Invisible Base" width="270" height="40" fill="#202020"/>
+            <path id="More_Icon" data-name="More Icon" d="M12,2a2,2,0,1,1,2,2A2,2,0,0,1,12,2ZM6,2A2,2,0,1,1,8,4,2,2,0,0,1,6,2ZM0,2A2,2,0,1,1,2,4,2,2,0,0,1,0,2Z" transform="translate(234 18)" fill="#9b9b9b"/>
+            <rect id="Left" width="5" height="40" fill="#ffc200"/>
+            <text id="Website_Redesign" data-name="Website Redesign" transform="translate(60 26)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Website Redesign</tspan></text>
+            <g id="Icon-3" data-name="Icon" transform="translate(30 10)">
+              <rect id="Mask-7" data-name="Mask" width="20" height="20" rx="4" fill="#ffc200"/>
+              <g id="Icon-4" data-name="Icon" clip-path="url(#clip-path)">
+                <g id="Shapes" transform="translate(-1.701 -9.281)">
+                  <path id="Rectangle_2_Copy_2-2" data-name="Rectangle 2 Copy 2" d="M.024,4.007a4,4,0,0,1,4-4L13.648,0a4,4,0,0,1,4,4l-.024,19.968a4,4,0,0,1-4,4L4,27.98a4,4,0,0,1-4-4Z" transform="matrix(0.839, -0.545, 0.545, 0.839, 11.537, 9.614)" fill="#753ad7"/>
+                  <g id="Oval_4_Copy" data-name="Oval 4 Copy" transform="translate(0 16.538)" fill="none" stroke="red" stroke-miterlimit="10" stroke-width="4">
+                    <ellipse cx="7.664" cy="7.684" rx="7.664" ry="7.684" stroke="none"/>
+                    <ellipse cx="7.664" cy="7.684" rx="5.664" ry="5.684" fill="none"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Item-3" data-name="Item" transform="translate(0 68)">
+            <rect id="Base" width="270" height="40" fill="rgba(32,32,32,0)"/>
+            <text id="CRM_System" data-name="CRM System" transform="translate(60 26)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">CRM System</tspan></text>
+            <g id="Icon-5" data-name="Icon" transform="translate(30 10)">
+              <rect id="Mask-8" data-name="Mask" width="20" height="20" rx="4" fill="#ffc200"/>
+              <g id="Icon-6" data-name="Icon" clip-path="url(#clip-path)">
+                <path id="Rectangle_2_Copy" data-name="Rectangle 2 Copy" d="M1.008,3.864l2.85-2.851a3.457,3.457,0,0,1,4.882-.006l.006.006L11.6,3.864a3.44,3.44,0,0,1,0,4.865L8.746,11.58a3.457,3.457,0,0,1-4.882.006l-.006-.006L1.008,8.729A3.44,3.44,0,0,1,1.008,3.864Z" transform="translate(11.424 15.378)" fill="red"/>
+                <path id="Rectangle_2_Copy_2-3" data-name="Rectangle 2 Copy 2" d="M1.008,3.864l2.85-2.851a3.457,3.457,0,0,1,4.882-.006l.006.006L11.6,3.864a3.44,3.44,0,0,1,0,4.865L8.746,11.58a3.457,3.457,0,0,1-4.882.006l-.006-.006L1.008,8.729A3.44,3.44,0,0,1,1.008,3.864Z" transform="translate(2.479 1.904)" fill="#753ad7"/>
+              </g>
+            </g>
+          </g>
+          <g id="Item-4" data-name="Item" transform="translate(0 28)">
+            <rect id="Invisible_Base-8" data-name="Invisible Base" width="270" height="40" fill="rgba(255,255,255,0)"/>
+            <text id="Dashboard_UI_Kit" data-name="Dashboard UI Kit" transform="translate(60 26)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Dashboard UI Kit</tspan></text>
+            <g id="Icon-7" data-name="Icon" transform="translate(30 10)">
+              <rect id="Mask-9" data-name="Mask" width="20" height="20" rx="4" fill="#ffc200"/>
+              <g id="Icon-8" data-name="Icon" clip-path="url(#clip-path)">
+                <path id="Rectangle" d="M8.3,0h5.932V10.662l-.933.065C9.3,11.005,5.515,2.887,8.3,0Z" transform="translate(6.255 -0.368)" fill="red"/>
+                <path id="Oval-10" data-name="Oval" d="M5.772,15.806c3.791,0,0-4.394,8.592-5.29S27.621,0,23.83,0,0,3.865,0,7.476,1.98,15.806,5.772,15.806Z" transform="translate(-12.382 12.097)" fill="#753ad7"/>
+              </g>
+            </g>
+          </g>
+          <text id="Projects-2" data-name="Projects" transform="translate(30 13)" fill="#878787" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">PROJECTS</tspan></text>
+        </g>
+        <g id="Menu" transform="translate(0 259)">
+          <g id="Item-5" data-name="Item" transform="translate(0 107.441)">
+            <rect id="Invisible_Base-9" data-name="Invisible Base" width="270" height="39.793" fill="rgba(255,255,255,0)"/>
+            <text id="Notifications" transform="translate(30 26)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Notifications</tspan></text>
+            <g id="Count" transform="translate(122.251 10.58)">
+              <circle id="Oval-11" data-name="Oval" cx="9.948" cy="9.948" r="9.948" transform="translate(0 0)" fill="#ffc200"/>
+              <text id="_3" data-name="3" transform="translate(6 14.448)" fill="#131313" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">3</tspan></text>
+            </g>
+          </g>
+          <g id="Item-6" data-name="Item" transform="translate(0 67.648)">
+            <rect id="Invisible_Base-10" data-name="Invisible Base" width="270" height="39.793" fill="rgba(255,255,255,0)"/>
+            <text id="My_Tasks" data-name="My Tasks" transform="translate(30 26)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">My Tasks</tspan></text>
+          </g>
+          <g id="Item-7" data-name="Item" transform="translate(0 28.85)">
+            <rect id="Invisible_Base-11" data-name="Invisible Base" width="270" height="39.793" fill="rgba(255,255,255,0)"/>
+            <text id="Home" transform="translate(30 25)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Home</tspan></text>
+          </g>
+          <text id="Menu-2" data-name="Menu" transform="translate(30 13)" fill="#878787" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">MENU</tspan></text>
+        </g>
+        <g id="Stats" transform="translate(30 184)">
+          <g id="Open_Tasks" data-name="Open Tasks" transform="translate(114 -3)">
+            <text id="Open_Tasks-2" data-name="Open Tasks" transform="translate(0 40)" fill="#fff" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">Open Tasks</tspan></text>
+            <text id="_11" data-name="11" transform="translate(0 21)" fill="#fff" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">11</tspan></text>
+          </g>
+          <g id="Completed_Tasks" data-name="Completed Tasks" transform="translate(0 -3)">
+            <text id="Completed_Tasks-2" data-name="Completed Tasks" transform="translate(0 40)" fill="#fff" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">Completed Tasks</tspan></text>
+            <text id="_372" data-name="372" transform="translate(0 21)" fill="#fff" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">372</tspan></text>
+          </g>
+        </g>
+        <g id="User_Info" data-name="User Info" transform="translate(0 84)">
+          <rect id="Base-2" data-name="Base" width="270" height="80" transform="translate(0 -0.207)" fill="#202020"/>
+          <path id="More_Icon-2" data-name="More Icon" d="M12,2a2,2,0,1,1,2,2A2,2,0,0,1,12,2ZM6,2A2,2,0,1,1,8,4,2,2,0,0,1,6,2ZM0,2A2,2,0,1,1,2,4,2,2,0,0,1,0,2Z" transform="translate(234 38)" fill="#9b9b9b"/>
+          <circle id="Userpic" cx="24" cy="24" r="24" transform="translate(30 16)" fill="url(#pattern-10)"/>
+          <g id="Name" transform="translate(93 20)">
+            <text id="Product_Owner" data-name="Product Owner" transform="translate(0 34)" fill="#9b9b9b" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Product Owner</tspan></text>
+            <text id="Emilee_Simchenko" data-name="Emilee Simchenko" transform="translate(0 15)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Emilee Simchenko</tspan></text>
+          </g>
+        </g>
+        <g id="Top" transform="translate(30.406 30)">
+          <g id="Logo">
+            <text id="Company_Name" data-name="Company Name" transform="translate(34.594 17)" fill="#fff" font-size="16" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">PROJECTUS</tspan></text>
+            <path id="Logo-2" data-name="Logo" d="M3.1,18.518l-2.7-2.7a1.351,1.351,0,0,1,1.911-1.911l1.745,1.746L8.5,11.2a1.353,1.353,0,0,1,1.913,1.913l-5.4,5.4a1.355,1.355,0,0,1-1.911,0Zm11.762-2.308a1.351,1.351,0,1,1,0-2.7h5.4a1.351,1.351,0,1,1,0,2.7ZM3.1,7.708l-2.7-2.7A1.351,1.351,0,1,1,2.306,3.1L4.051,4.844,8.5.394a1.352,1.352,0,0,1,1.913,1.912l-5.4,5.4a1.355,1.355,0,0,1-.957.4A1.336,1.336,0,0,1,3.1,7.708ZM14.859,5.4a1.351,1.351,0,0,1,0-2.7h5.4a1.351,1.351,0,0,1,0,2.7Z" transform="translate(0 2.543)" fill="#ffc200"/>
+          </g>
+          <path id="Search" d="M14.663,16a1.328,1.328,0,0,1-.945-.392l-3.477-3.477a.294.294,0,0,1-.027-.032c-.007-.009-.014-.018-.021-.026a6.578,6.578,0,1,1,1.88-1.88l.026.021a.306.306,0,0,1,.033.028l3.476,3.476A1.337,1.337,0,0,1,14.663,16ZM6.578,2.281a4.3,4.3,0,1,0,4.3,4.3A4.3,4.3,0,0,0,6.578,2.281Z" transform="translate(203.594 3)" fill="#fff" opacity="0.5"/>
+        </g>
+      </g>
+    </g>
+    <g id="Calendar-2" data-name="Calendar" transform="translate(300 166)">
+      <rect id="Base-3" data-name="Base" width="635" height="958" rx="8" fill="#fff"/>
+      <g id="Week_Days" data-name="Week Days" transform="translate(0 82)">
+        <rect id="Divider" width="635" height="1" transform="translate(0 31)" fill="#ececec"/>
+        <text id="MON" transform="translate(33 15)" fill="#131313" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">MON</tspan></text>
+        <text id="TUE" transform="translate(115 15)" fill="#131313" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">TUE</tspan></text>
+        <text id="WED" transform="translate(197 15)" fill="#131313" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">WED</tspan></text>
+        <text id="THU" transform="translate(279 15)" fill="#131313" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">THU</tspan></text>
+        <text id="FRI" transform="translate(361 15)" fill="#131313" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">FRI</tspan></text>
+        <text id="Sat" transform="translate(443 15)" fill="#131313" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">SAT</tspan></text>
+        <text id="Sun" transform="translate(525 15)" fill="#131313" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">SUN</tspan></text>
+      </g>
+      <g id="Scroll_Bar" data-name="Scroll Bar" transform="translate(647)">
+        <rect id="Base-4" data-name="Base" width="6" height="958" rx="3" fill="#fff"/>
+        <rect id="Scroll" width="6" height="90" rx="3" fill="#dcd9d3"/>
+      </g>
+      <g id="Dates" transform="translate(33 134)">
+        <g id="Calendar_Item" data-name="Calendar Item" transform="translate(0 82)">
+          <rect id="Base-5" data-name="Base" width="77" height="77" rx="8" fill="#fff8dd"/>
+          <text id="_3_tasks" data-name="3 tasks" transform="translate(10 61)" fill="#131313" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">3 TASKS</tspan></text>
+          <text id="_2" data-name="2" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">2</tspan></text>
+        </g>
+        <g id="Calendar_Item-2" data-name="Calendar Item" transform="translate(82 82)">
+          <rect id="Base-6" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_3-2" data-name="3" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">3</tspan></text>
+        </g>
+        <g id="Calendar_Item-3" data-name="Calendar Item" transform="translate(164 82)">
+          <rect id="Base-7" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_4" data-name="4" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">4</tspan></text>
+        </g>
+        <g id="Calendar_Item-4" data-name="Calendar Item" transform="translate(246 82)">
+          <rect id="Base-8" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_12_tasks" data-name="12 tasks" transform="translate(10 61)" fill="#131313" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">12 TASKS</tspan></text>
+          <text id="_5" data-name="5" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">5</tspan></text>
+        </g>
+        <g id="Calendar_Item-5" data-name="Calendar Item" transform="translate(328 82)">
+          <rect id="Base-9" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_6" data-name="6" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">6</tspan></text>
+        </g>
+        <g id="Calendar_Item-6" data-name="Calendar Item" transform="translate(410 82)">
+          <rect id="Base-10" data-name="Base" width="77" height="77" rx="8" fill="#f6e9e9"/>
+          <text id="_7" data-name="7" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">7</tspan></text>
+        </g>
+        <g id="Calendar_Item-7" data-name="Calendar Item" transform="translate(492 82)">
+          <rect id="Base-11" data-name="Base" width="77" height="77" rx="8" fill="#f6e9e9"/>
+          <text id="_8" data-name="8" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">8</tspan></text>
+        </g>
+        <g id="Calendar_Item-8" data-name="Calendar Item" transform="translate(0 164)">
+          <rect id="Base-12" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_9" data-name="9" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">9</tspan></text>
+        </g>
+        <g id="Calendar_Item-9" data-name="Calendar Item" transform="translate(82 164)">
+          <rect id="Base-13" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_10" data-name="10" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">10</tspan></text>
+        </g>
+        <g id="Calendar_Item-10" data-name="Calendar Item" transform="translate(164 164)">
+          <rect id="Base-14" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_1_Task" data-name="1 Task" transform="translate(10 61)" fill="#131313" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">1 TASK</tspan></text>
+          <text id="_11-2" data-name="11" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">11</tspan></text>
+        </g>
+        <g id="Calendar_Item-11" data-name="Calendar Item" transform="translate(246 164)">
+          <rect id="Base-15" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_12" data-name="12" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">12</tspan></text>
+        </g>
+        <g id="Calendar_Item-12" data-name="Calendar Item" transform="translate(328 164)">
+          <rect id="Base-16" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_13" data-name="13" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">13</tspan></text>
+        </g>
+        <g id="Calendar_Item-13" data-name="Calendar Item" transform="translate(410 164)">
+          <rect id="Base-17" data-name="Base" width="77" height="77" rx="8" fill="#f6e9e9"/>
+          <text id="_14" data-name="14" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">14</tspan></text>
+        </g>
+        <g id="Calendar_Item-14" data-name="Calendar Item" transform="translate(492 164)">
+          <rect id="Base-18" data-name="Base" width="77" height="77" rx="8" fill="#f6e9e9"/>
+          <text id="_15" data-name="15" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">15</tspan></text>
+        </g>
+        <g id="Calendar_Item-15" data-name="Calendar Item" transform="translate(0 246)">
+          <rect id="Base-19" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_16" data-name="16" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">16</tspan></text>
+        </g>
+        <g id="Calendar_Item-16" data-name="Calendar Item" transform="translate(82 246)">
+          <rect id="Base-20" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_17" data-name="17" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">17</tspan></text>
+        </g>
+        <g id="Calendar_Item-17" data-name="Calendar Item" transform="translate(164 246)">
+          <rect id="Base-21" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_18" data-name="18" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">18</tspan></text>
+        </g>
+        <g id="Calendar_Item-18" data-name="Calendar Item" transform="translate(246 246)">
+          <rect id="Base-22" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_19" data-name="19" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">19</tspan></text>
+        </g>
+        <g id="Calendar_Item-19" data-name="Calendar Item" transform="translate(328 246)">
+          <rect id="Base-23" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_20" data-name="20" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">20</tspan></text>
+        </g>
+        <g id="Calendar_Item-20" data-name="Calendar Item" transform="translate(410 246)">
+          <rect id="Base-24" data-name="Base" width="77" height="77" rx="8" fill="#f6e9e9"/>
+          <text id="_21" data-name="21" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">21</tspan></text>
+        </g>
+        <g id="Calendar_Item-21" data-name="Calendar Item" transform="translate(492 246)">
+          <rect id="Base-25" data-name="Base" width="77" height="77" rx="8" fill="#f6e9e9"/>
+          <text id="_22" data-name="22" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">22</tspan></text>
+        </g>
+        <g id="Calendar_Item-22" data-name="Calendar Item" transform="translate(164 492)">
+          <rect id="Base-26" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_1" data-name="1" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">1</tspan></text>
+        </g>
+        <g id="Calendar_Item-23" data-name="Calendar Item" transform="translate(246 492)">
+          <rect id="Base-27" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_5_tasks" data-name="5 tasks" transform="translate(10 61)" fill="#131313" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">5 TASKS</tspan></text>
+          <text id="_2-2" data-name="2" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">2</tspan></text>
+        </g>
+        <g id="Calendar_Item-24" data-name="Calendar Item" transform="translate(328 492)">
+          <rect id="Base-28" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_3-3" data-name="3" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">3</tspan></text>
+        </g>
+        <g id="Calendar_Item-25" data-name="Calendar Item" transform="translate(410 492)">
+          <rect id="Base-29" data-name="Base" width="77" height="77" rx="8" fill="#f6e9e9"/>
+          <text id="_4-2" data-name="4" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">4</tspan></text>
+        </g>
+        <g id="Calendar_Item-26" data-name="Calendar Item" transform="translate(492 492)">
+          <rect id="Base-30" data-name="Base" width="77" height="77" rx="8" fill="#f6e9e9"/>
+          <text id="_5-2" data-name="5" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">5</tspan></text>
+        </g>
+        <g id="Calendar_Item-27" data-name="Calendar Item" transform="translate(0 574)">
+          <rect id="Base-31" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_6-2" data-name="6" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">6</tspan></text>
+        </g>
+        <g id="Calendar_Item-28" data-name="Calendar Item" transform="translate(82 574)">
+          <rect id="Base-32" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_7-2" data-name="7" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">7</tspan></text>
+        </g>
+        <g id="Calendar_Item-29" data-name="Calendar Item" transform="translate(164 574)">
+          <rect id="Base-33" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_6_tasks" data-name="6 tasks" transform="translate(10 61)" fill="#131313" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">6 TASKS</tspan></text>
+          <text id="_8-2" data-name="8" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">8</tspan></text>
+        </g>
+        <g id="Calendar_Item-30" data-name="Calendar Item" transform="translate(246 574)">
+          <rect id="Base-34" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_9-2" data-name="9" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">9</tspan></text>
+        </g>
+        <g id="Calendar_Item-31" data-name="Calendar Item" transform="translate(328 574)">
+          <rect id="Base-35" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_10-2" data-name="10" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">10</tspan></text>
+        </g>
+        <g id="Calendar_Item-32" data-name="Calendar Item" transform="translate(410 574)">
+          <rect id="Base-36" data-name="Base" width="77" height="77" rx="8" fill="#f6e9e9"/>
+          <text id="_11-3" data-name="11" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">11</tspan></text>
+        </g>
+        <g id="Calendar_Item-33" data-name="Calendar Item" transform="translate(492 574)">
+          <rect id="Base-37" data-name="Base" width="77" height="77" rx="8" fill="#f6e9e9"/>
+          <text id="_12-2" data-name="12" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">12</tspan></text>
+        </g>
+        <g id="Calendar_Item-34" data-name="Calendar Item" transform="translate(0 656)">
+          <rect id="Base-38" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_13-2" data-name="13" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">13</tspan></text>
+        </g>
+        <g id="Calendar_Item-35" data-name="Calendar Item" transform="translate(82 656)">
+          <rect id="Base-39" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_14-2" data-name="14" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">14</tspan></text>
+        </g>
+        <g id="Calendar_Item-36" data-name="Calendar Item" transform="translate(164 656)">
+          <rect id="Base-40" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_15-2" data-name="15" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">15</tspan></text>
+        </g>
+        <g id="Calendar_Item-37" data-name="Calendar Item" transform="translate(246 656)">
+          <rect id="Base-41" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_16-2" data-name="16" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">16</tspan></text>
+        </g>
+        <g id="Calendar_Item-38" data-name="Calendar Item" transform="translate(328 656)">
+          <rect id="Base-42" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_17-2" data-name="17" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">17</tspan></text>
+        </g>
+        <g id="Calendar_Item-39" data-name="Calendar Item" transform="translate(410 656)">
+          <rect id="Base-43" data-name="Base" width="77" height="77" rx="8" fill="#f6e9e9"/>
+          <text id="_18-2" data-name="18" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">18</tspan></text>
+        </g>
+        <g id="Calendar_Item-40" data-name="Calendar Item" transform="translate(492 656)">
+          <rect id="Base-44" data-name="Base" width="77" height="77" rx="8" fill="#f6e9e9"/>
+          <text id="_19-2" data-name="19" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">19</tspan></text>
+        </g>
+        <g id="Calendar_Item-41" data-name="Calendar Item" transform="translate(0 738)">
+          <rect id="Base-45" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_20-2" data-name="20" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">20</tspan></text>
+        </g>
+        <g id="Calendar_Item-42" data-name="Calendar Item" transform="translate(82 738)">
+          <rect id="Base-46" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_21-2" data-name="21" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">21</tspan></text>
+        </g>
+        <g id="Calendar_Item-43" data-name="Calendar Item" transform="translate(164 738)">
+          <rect id="Base-47" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_22-2" data-name="22" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">22</tspan></text>
+        </g>
+        <g id="Calendar_Item-44" data-name="Calendar Item" transform="translate(246 738)">
+          <rect id="Base-48" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_23" data-name="23" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">23</tspan></text>
+        </g>
+        <g id="Calendar_Item-45" data-name="Calendar Item" transform="translate(328 738)">
+          <rect id="Base-49" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_24" data-name="24" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">24</tspan></text>
+        </g>
+        <g id="Calendar_Item-46" data-name="Calendar Item" transform="translate(410 738)">
+          <rect id="Base-50" data-name="Base" width="77" height="77" rx="8" fill="#f6e9e9"/>
+          <text id="_25" data-name="25" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">25</tspan></text>
+        </g>
+        <g id="Calendar_Item-47" data-name="Calendar Item" transform="translate(492 738)">
+          <rect id="Base-51" data-name="Base" width="77" height="77" rx="8" fill="#f6e9e9"/>
+          <text id="_26" data-name="26" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">26</tspan></text>
+        </g>
+        <g id="Calendar_Item-48" data-name="Calendar Item" transform="translate(0 328)">
+          <rect id="Base-52" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_23-2" data-name="23" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">23</tspan></text>
+        </g>
+        <g id="Calendar_Item-49" data-name="Calendar Item" transform="translate(82 328)">
+          <rect id="Base-53" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_24-2" data-name="24" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">24</tspan></text>
+        </g>
+        <g id="Calendar_Item-50" data-name="Calendar Item" transform="translate(0 410)">
+          <rect id="Base-54" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_2_tasks" data-name="2 tasks" transform="translate(10 61)" fill="#131313" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">2 TASKS</tspan></text>
+          <text id="_30" data-name="30" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">30</tspan></text>
+        </g>
+        <g id="Calendar_Item-51" data-name="Calendar Item" transform="translate(82 410)">
+          <rect id="Base-55" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_31" data-name="31" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">31</tspan></text>
+        </g>
+        <g id="Calendar_Item-52" data-name="Calendar Item" transform="translate(164 328)">
+          <rect id="Base-56" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_25-2" data-name="25" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">25</tspan></text>
+        </g>
+        <g id="Calendar_Item-53" data-name="Calendar Item" transform="translate(246 328)">
+          <rect id="Base-57" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_26-2" data-name="26" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">26</tspan></text>
+        </g>
+        <g id="Calendar_Item-54" data-name="Calendar Item" transform="translate(328 328)">
+          <rect id="Base-58" data-name="Base" width="77" height="77" rx="8" fill="#f7f6f3"/>
+          <text id="_27" data-name="27" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">27</tspan></text>
+        </g>
+        <g id="Calendar_Item-55" data-name="Calendar Item" transform="translate(410 328)">
+          <rect id="Base-59" data-name="Base" width="77" height="77" rx="8" fill="#f6e9e9"/>
+          <text id="_28" data-name="28" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">28</tspan></text>
+        </g>
+        <g id="Calendar_Item-56" data-name="Calendar Item" transform="translate(492 328)">
+          <rect id="Base-60" data-name="Base" width="77" height="77" rx="8" fill="#f6e9e9"/>
+          <text id="_29" data-name="29" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">29</tspan></text>
+        </g>
+        <g id="Calendar_Item-57" data-name="Calendar Item" transform="translate(492)">
+          <rect id="Base-61" data-name="Base" width="77" height="77" rx="8" fill="#f6e9e9"/>
+          <text id="_1-2" data-name="1" transform="translate(10 29)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">1</tspan></text>
+        </g>
+      </g>
+      <text id="December_2019" data-name="December 2019" transform="translate(30 57)" fill="#131313" font-size="26" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">December 2019</tspan></text>
+    </g>
+    <g id="Selected_Date" data-name="Selected Date" transform="translate(965 166)">
+      <rect id="Base-62" data-name="Base" width="445" height="958" rx="8" fill="#fff"/>
+      <g id="To_Do" data-name="To Do" transform="translate(30 30)">
+        <g id="Task_Item" data-name="Task Item" transform="translate(0 60)">
+          <rect id="Base-63" data-name="Base" width="385" height="122" rx="10" fill="#f7f6f3"/>
+          <g id="Bottom" transform="translate(59 82)">
+            <g id="Pic" stroke="#fff" stroke-miterlimit="10" stroke-width="2" fill="url(#pattern-11)">
+              <circle cx="10" cy="10" r="10" stroke="none"/>
+              <circle cx="10" cy="10" r="11" fill="none"/>
+            </g>
+            <g id="Tag" transform="translate(30)">
+              <rect id="Base-64" data-name="Base" width="63" height="20" rx="10" fill="#e3efff"/>
+              <text id="Design" transform="translate(10 14)" fill="#1975d0" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">DESIGN</tspan></text>
+            </g>
+          </g>
+          <text id="Task_Title" data-name="Task Title" transform="translate(60 20)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="19">An option to search in current </tspan><tspan x="0" y="46">projects or in all projects</tspan></text>
+          <g id="Tick" transform="translate(20 25)">
+            <rect id="Base-65" data-name="Base" width="30" height="30" rx="4" fill="#fff"/>
+            <path id="Path" d="M11.561.44a1.5,1.5,0,0,0-2.124,0L4.5,5.379,2.56,3.441A1.5,1.5,0,0,0,.439,5.562l3,3a1.5,1.5,0,0,0,2.121,0l6-6A1.5,1.5,0,0,0,11.561.44Z" transform="translate(9 11)" fill="#b8b8b8"/>
+          </g>
+        </g>
+        <g id="Task_Item-2" data-name="Task Item" transform="translate(0 192)">
+          <rect id="Base-66" data-name="Base" width="385" height="122" rx="10" fill="#f7f6f3"/>
+          <g id="Bottom-2" data-name="Bottom" transform="translate(59 82)">
+            <g id="Tag-2" data-name="Tag" transform="translate(30)">
+              <rect id="Base-67" data-name="Base" width="89" height="20" rx="10" fill="#f5f0ff"/>
+              <text id="Marketing" transform="translate(10 14)" fill="#764ced" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">MARKETING</tspan></text>
+            </g>
+            <g id="Pic-2" data-name="Pic" stroke="#fff" stroke-miterlimit="10" stroke-width="2" fill="url(#pattern-12)">
+              <circle cx="10" cy="10" r="10" stroke="none"/>
+              <circle cx="10" cy="10" r="11" fill="none"/>
+            </g>
+          </g>
+          <text id="Task_Title-2" data-name="Task Title" transform="translate(60 20)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="19">Account for teams and personal in </tspan><tspan x="0" y="46">bottom style</tspan></text>
+          <g id="Tick-2" data-name="Tick" transform="translate(20 25)">
+            <rect id="Base-68" data-name="Base" width="30" height="30" rx="4" fill="#fff"/>
+            <path id="Path-2" data-name="Path" d="M11.561.44a1.5,1.5,0,0,0-2.124,0L4.5,5.379,2.56,3.441A1.5,1.5,0,0,0,.439,5.562l3,3a1.5,1.5,0,0,0,2.121,0l6-6A1.5,1.5,0,0,0,11.561.44Z" transform="translate(9 11)" fill="#b8b8b8"/>
+          </g>
+        </g>
+        <g id="Task_Item-3" data-name="Task Item" transform="translate(0 324)">
+          <rect id="Base-69" data-name="Base" width="385" height="122" rx="10" fill="#f7f6f3"/>
+          <g id="Bottom-3" data-name="Bottom" transform="translate(59 82)">
+            <g id="Tag-3" data-name="Tag" transform="translate(30)">
+              <rect id="Base-70" data-name="Base" width="63" height="20" rx="10" fill="#e3efff"/>
+              <text id="Design-2" data-name="Design" transform="translate(10 14)" fill="#1975d0" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">DESIGN</tspan></text>
+            </g>
+            <g id="Pic-3" data-name="Pic" stroke="#fff" stroke-miterlimit="10" stroke-width="2" fill="url(#pattern-13)">
+              <circle cx="10" cy="10" r="10" stroke="none"/>
+              <circle cx="10" cy="10" r="11" fill="none"/>
+            </g>
+          </g>
+          <text id="Task_Title-3" data-name="Task Title" transform="translate(60 20)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="19">Listing on Product Hunt so that we </tspan><tspan x="0" y="46">can reach as many potential users</tspan></text>
+          <g id="Tick-3" data-name="Tick" transform="translate(20 25)">
+            <rect id="Base-71" data-name="Base" width="30" height="30" rx="4" fill="#fff"/>
+            <path id="Path-3" data-name="Path" d="M11.561.44a1.5,1.5,0,0,0-2.124,0L4.5,5.379,2.56,3.441A1.5,1.5,0,0,0,.439,5.562l3,3a1.5,1.5,0,0,0,2.121,0l6-6A1.5,1.5,0,0,0,11.561.44Z" transform="translate(9 11)" fill="#b8b8b8"/>
+          </g>
+        </g>
+        <g id="Title">
+          <g id="Green_Button" data-name="Green Button" transform="translate(274.004)" clip-path="url(#clip-path-5)">
+            <g id="Button" transform="translate(-0.004)">
+              <rect id="Base-72" data-name="Base" width="110" height="40" rx="20" transform="translate(0.004)" fill="#cef9c6"/>
+              <text id="_Add_Task" data-name="+ Add Task" transform="translate(55.004 25)" fill="#1d201c" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-36.668" y="0">+ Add Task</tspan></text>
+            </g>
+          </g>
+          <text id="Mon_2_Dec_2019" data-name="Mon, 2 Dec 2019" transform="translate(0.004 27)" fill="#131313" font-size="26" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Mon, 2 Dec 2019</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Top-2" data-name="Top" transform="translate(270)">
+      <g id="Project_Header" data-name="Project Header" clip-path="url(#clip-path-6)">
+        <rect id="Base-73" data-name="Base" width="1170" height="136" fill="#fff"/>
+        <g id="Project_Header-2" data-name="Project Header" transform="translate(30 35)">
+          <g id="Members" transform="translate(832 9)">
+            <circle id="Pic-4" data-name="Pic" cx="15" cy="15" r="15" fill="url(#pattern-14)"/>
+            <circle id="Pic-5" data-name="Pic" cx="15" cy="15" r="15" transform="translate(35)" fill="url(#pattern-15)"/>
+            <circle id="Pic-6" data-name="Pic" cx="15" cy="15" r="15" transform="translate(70)" fill="url(#pattern-16)"/>
+            <g id="Share_Button" data-name="Share Button" transform="translate(115 1)">
+              <rect id="Base-74" data-name="Base" width="67" height="30" rx="15" fill="#eaeaea"/>
+              <text id="Share" transform="translate(15 19)" fill="#131313" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Share</tspan></text>
+            </g>
+            <g id="Chat_Button" data-name="Chat Button" transform="translate(197 1)">
+              <rect id="Base-75" data-name="Base" width="81" height="30" rx="15" fill="#fff8dd"/>
+              <text id="Chat" transform="translate(36 20)" fill="#ffc200" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Chat</tspan></text>
+              <path id="Combined_Shape" data-name="Combined Shape" d="M5.177,12.121c.12.006.24.011.362.011a6.588,6.588,0,0,0,6.593-6.593c0-.122,0-.242-.01-.362a5.54,5.54,0,0,1,2.915,8.406l.727,2.182-2.182-.727a5.54,5.54,0,0,1-8.406-2.916ZM2.417,10.114l-2.183.727L.963,8.659a5.535,5.535,0,1,1,1.454,1.455Z" transform="translate(15 7)" fill="#ffc200"/>
+            </g>
+          </g>
+          <g id="More" transform="translate(331 10)">
+            <rect id="Base-76" data-name="Base" width="30" height="30" rx="15" fill="#eaeaea"/>
+            <path id="More_Icon-3" data-name="More Icon" d="M12,2a2,2,0,1,1,2,2A2,2,0,0,1,12,2ZM6,2A2,2,0,1,1,8,4,2,2,0,0,1,6,2ZM0,2A2,2,0,1,1,2,4,2,2,0,0,1,0,2Z" transform="translate(7 13)" fill="#9b9b9b"/>
+          </g>
+          <g id="Title-2" data-name="Title">
+            <text id="Website_Redesign-2" data-name="Website Redesign" transform="translate(55)" fill="#131313" font-size="32" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="35">Website </tspan></text>
+            <g id="Icon-9" data-name="Icon" transform="translate(0 4.547)">
+              <rect id="Mask-10" data-name="Mask" width="40" height="40" rx="8" fill="#ffc200"/>
+              <g id="Icon-10" data-name="Icon" clip-path="url(#clip-path-7)">
+                <g id="Shapes-2" data-name="Shapes" transform="translate(-3 -18.753)">
+                  <path id="Rectangle_2_Copy_2-4" data-name="Rectangle 2 Copy 2" d="M.058,4.028a4,4,0,0,1,4-4L31.31,0a4,4,0,0,1,4,4l-.058,47.936a4,4,0,0,1-4,4L4,55.969a4,4,0,0,1-4-4Z" transform="matrix(0.839, -0.545, 0.545, 0.839, 22.665, 19.418)" fill="#753ad7"/>
+                  <g id="Oval_4_Copy-2" data-name="Oval 4 Copy" transform="translate(0.598 30.267)" fill="none" stroke="red" stroke-miterlimit="10" stroke-width="6">
+                    <ellipse cx="15.328" cy="15.369" rx="15.328" ry="15.369" stroke="none"/>
+                    <ellipse cx="15.328" cy="15.369" rx="12.328" ry="12.369" fill="none"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Tabs" transform="translate(30 102)">
+        <text id="Tasks" transform="translate(0 17)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.7"><tspan x="0" y="0">Tasks</tspan></text>
+        <text id="Kanban" transform="translate(73 17)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.7"><tspan x="0" y="0">Kanban</tspan></text>
+        <text id="Activity" transform="translate(158 17)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.7"><tspan x="0" y="0">Activity</tspan></text>
+        <text id="Calendar-3" data-name="Calendar" transform="translate(243 17)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Calendar</tspan></text>
+        <rect id="Underline-2" data-name="Underline" width="65" height="2" transform="translate(243 32)" fill="#ffc200"/>
+        <text id="Files" transform="translate(338 17)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.7"><tspan x="0" y="0">Files</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

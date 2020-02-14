@@ -18,3 +18,14 @@
                                     </li>
                                 )
                             })}
+
+
+ {/* <ul className="navbar-nav mr-auto">
+                            {this.props.values.map((value, index) => {
+                                return (
+                                    <li key={index} className="nav-item active">
+                                        <a className="nav-link" href={value['link']} >{value['title']}<span className="sr-only">(current)</span></a>
+                                    </li>
+                                )
+                            })}
+                        </ul> */}

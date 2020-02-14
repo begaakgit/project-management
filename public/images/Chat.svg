@@ -1,0 +1,438 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="1154" viewBox="0 0 1440 1154">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Chat-image.png"/>
+    </pattern>
+    <pattern id="pattern-2" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Chat-image2.png"/>
+    </pattern>
+    <pattern id="pattern-3" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Chat-image3.png"/>
+    </pattern>
+    <pattern id="pattern-4" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Chat-image4.png"/>
+    </pattern>
+    <pattern id="pattern-5" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Chat-image5.png"/>
+    </pattern>
+    <pattern id="pattern-6" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Chat-image6.png"/>
+    </pattern>
+    <pattern id="pattern-7" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Chat-image7.png"/>
+    </pattern>
+    <pattern id="pattern-8" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Chat-image8.png"/>
+    </pattern>
+    <pattern id="pattern-9" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Chat-image9.png"/>
+    </pattern>
+    <clipPath id="clip-path">
+      <rect id="Mask" width="20" height="20" rx="4" fill="#ffc200"/>
+    </clipPath>
+    <pattern id="pattern-10" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Chat-image10.png"/>
+    </pattern>
+    <pattern id="pattern-11" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 1080 1350">
+      <image width="1080" height="1350" xlink:href="Chat-image11.png"/>
+    </pattern>
+    <pattern id="pattern-12" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Chat-image12.png"/>
+    </pattern>
+    <pattern id="pattern-13" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Chat-image13.png"/>
+    </pattern>
+    <pattern id="pattern-15" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Chat-image14.png"/>
+    </pattern>
+    <pattern id="pattern-16" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Chat-image15.png"/>
+    </pattern>
+    <pattern id="pattern-17" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Chat-image16.png"/>
+    </pattern>
+    <pattern id="pattern-18" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Chat-image17.png"/>
+    </pattern>
+    <pattern id="pattern-19" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Chat-image18.png"/>
+    </pattern>
+    <pattern id="pattern-20" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Chat-image19.png"/>
+    </pattern>
+    <pattern id="pattern-21" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Chat-image20.png"/>
+    </pattern>
+    <pattern id="pattern-22" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Chat-image21.png"/>
+    </pattern>
+    <clipPath id="clip-path-5">
+      <rect width="110" height="40" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect width="1170" height="136" fill="none"/>
+    </clipPath>
+    <pattern id="pattern-26" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Chat-image22.png"/>
+    </pattern>
+    <pattern id="pattern-27" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Chat-image23.png"/>
+    </pattern>
+    <pattern id="pattern-28" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="Chat-image24.png"/>
+    </pattern>
+    <clipPath id="clip-path-7">
+      <rect id="Mask-5" data-name="Mask" width="40" height="40" rx="8" fill="#ffc200"/>
+    </clipPath>
+    <clipPath id="clip-Chat">
+      <rect width="1440" height="1154"/>
+    </clipPath>
+  </defs>
+  <g id="Chat" clip-path="url(#clip-Chat)">
+    <rect width="1440" height="1154" fill="#eeebe5"/>
+    <g id="Navigation">
+      <rect id="Navigation_background" data-name="Navigation background" width="270" height="1154" fill="rgba(0,0,0,0)"/>
+      <g id="Navigation-2" data-name="Navigation">
+        <rect id="Menu_Base" data-name="Menu Base" width="270" height="1154"/>
+        <g id="Invite" transform="translate(30 1077)">
+          <path id="Underline" d="M0,.5H101.5" transform="translate(0 20)" fill="none" stroke="#ffc200" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1" opacity="0.5"/>
+          <text id="Invite_your_team_and" data-name="Invite your team and" fill="#ffc200" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="15">Invite your team</tspan><tspan y="15" xml:space="preserve" fill="#fff"> and </tspan><tspan x="0" y="37" fill="#fff">start collaborating!</tspan><tspan fill="#fff" font-family="Heebo"><tspan x="0" y="59"></tspan></tspan></text>
+        </g>
+        <g id="Teams" transform="translate(0 695)">
+          <g id="Add_a_Team" data-name="Add a Team" transform="translate(0 148)">
+            <rect id="Invisible_Base" data-name="Invisible Base" width="270" height="40" fill="rgba(255,255,255,0)"/>
+            <text id="_Add_a_Team" data-name="+ Add a Team" transform="translate(30 26)" fill="#ffc200" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">+ Add a Team</tspan></text>
+          </g>
+          <g id="Frontend" transform="translate(0 108)">
+            <rect id="Invisible_Base-2" data-name="Invisible Base" width="270" height="40" fill="rgba(255,255,255,0)"/>
+            <text id="Frontend-2" data-name="Frontend" transform="translate(30 26)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Frontend</tspan></text>
+            <circle id="Oval" cx="10" cy="10" r="10" transform="translate(230 10)" fill="url(#pattern)"/>
+            <circle id="Oval-2" data-name="Oval" cx="10" cy="10" r="10" transform="translate(205 10)" fill="url(#pattern-2)"/>
+            <circle id="Oval-3" data-name="Oval" cx="10" cy="10" r="10" transform="translate(180 10)" fill="url(#pattern-3)"/>
+            <circle id="Oval-4" data-name="Oval" cx="10" cy="10" r="10" transform="translate(155 10)" fill="url(#pattern-4)"/>
+          </g>
+          <g id="Backend" transform="translate(0 68)">
+            <rect id="Invisible_Base-3" data-name="Invisible Base" width="270" height="40" fill="rgba(255,255,255,0)"/>
+            <circle id="Oval-5" data-name="Oval" cx="10" cy="10" r="10" transform="translate(230 10)" fill="url(#pattern-5)"/>
+            <circle id="Oval-6" data-name="Oval" cx="10" cy="10" r="10" transform="translate(205 10)" fill="url(#pattern-6)"/>
+            <text id="Backend-2" data-name="Backend" transform="translate(30 26)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Backend</tspan></text>
+          </g>
+          <g id="Designers" transform="translate(0 28)">
+            <rect id="Invisible_Base-4" data-name="Invisible Base" width="270" height="40" fill="rgba(255,255,255,0)"/>
+            <circle id="Oval-7" data-name="Oval" cx="10" cy="10" r="10" transform="translate(230 10)" fill="url(#pattern-7)"/>
+            <circle id="Oval-8" data-name="Oval" cx="10" cy="10" r="10" transform="translate(205 10)" fill="url(#pattern-8)"/>
+            <circle id="Oval-9" data-name="Oval" cx="10" cy="10" r="10" transform="translate(180 10)" fill="url(#pattern-9)"/>
+            <text id="Designers-2" data-name="Designers" transform="translate(30 26)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Designers</tspan></text>
+          </g>
+          <text id="Teams-2" data-name="Teams" transform="translate(30 13)" fill="#878787" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">TEAMS</tspan></text>
+        </g>
+        <g id="Projects" transform="translate(0 437)">
+          <g id="Add_a_Project" data-name="Add a Project" transform="translate(0 188)">
+            <rect id="Invisible_Base-5" data-name="Invisible Base" width="270" height="40" fill="rgba(255,255,255,0)"/>
+            <text id="_Add_a_Project" data-name="+ Add a Project" transform="translate(30 26)" fill="#ffc200" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">+ Add a Project</tspan></text>
+          </g>
+          <g id="Item" transform="translate(0 148)">
+            <rect id="Invisible_Base-6" data-name="Invisible Base" width="270" height="40" fill="rgba(255,255,255,0)"/>
+            <text id="Communication_Tool" data-name="Communication Tool" transform="translate(60 26)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Communication Tool</tspan></text>
+            <g id="Icon" transform="translate(30 10)">
+              <rect id="Mask-6" data-name="Mask" width="20" height="20" rx="4" fill="#ffc200"/>
+              <g id="Icon-2" data-name="Icon" clip-path="url(#clip-path)">
+                <path id="Rectangle_2_Copy_2" data-name="Rectangle 2 Copy 2" d="M25.2,0V20H0Q3.219,9.7,12.335,8.066T25.2,0Z" transform="translate(-5.102 4.281)" fill="red"/>
+                <path id="Rectangle_2" data-name="Rectangle 2" d="M15.992,11.315C24.705,8.9,25.2,0,25.2,0V19.9H0s4.864-5.626,7.926-7.086S13.065,12.126,15.992,11.315Z" transform="translate(-5.102 4.38)" fill="#753ad7"/>
+              </g>
+            </g>
+          </g>
+          <g id="Item-2" data-name="Item" transform="translate(0 108)">
+            <rect id="Invisible_Base-7" data-name="Invisible Base" width="270" height="40" fill="#202020"/>
+            <path id="More_Icon" data-name="More Icon" d="M12,2a2,2,0,1,1,2,2A2,2,0,0,1,12,2ZM6,2A2,2,0,1,1,8,4,2,2,0,0,1,6,2ZM0,2A2,2,0,1,1,2,4,2,2,0,0,1,0,2Z" transform="translate(234 18)" fill="#9b9b9b"/>
+            <rect id="Left" width="5" height="40" fill="#ffc200"/>
+            <text id="Website_Redesign" data-name="Website Redesign" transform="translate(60 26)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Website Redesign</tspan></text>
+            <g id="Icon-3" data-name="Icon" transform="translate(30 10)">
+              <rect id="Mask-7" data-name="Mask" width="20" height="20" rx="4" fill="#ffc200"/>
+              <g id="Icon-4" data-name="Icon" clip-path="url(#clip-path)">
+                <g id="Shapes" transform="translate(-1.701 -9.281)">
+                  <path id="Rectangle_2_Copy_2-2" data-name="Rectangle 2 Copy 2" d="M.024,4.007a4,4,0,0,1,4-4L13.648,0a4,4,0,0,1,4,4l-.024,19.968a4,4,0,0,1-4,4L4,27.98a4,4,0,0,1-4-4Z" transform="matrix(0.839, -0.545, 0.545, 0.839, 11.537, 9.614)" fill="#753ad7"/>
+                  <g id="Oval_4_Copy" data-name="Oval 4 Copy" transform="translate(0 16.538)" fill="none" stroke="red" stroke-miterlimit="10" stroke-width="4">
+                    <ellipse cx="7.664" cy="7.684" rx="7.664" ry="7.684" stroke="none"/>
+                    <ellipse cx="7.664" cy="7.684" rx="5.664" ry="5.684" fill="none"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Item-3" data-name="Item" transform="translate(0 68)">
+            <rect id="Base" width="270" height="40" fill="rgba(32,32,32,0)"/>
+            <text id="CRM_System" data-name="CRM System" transform="translate(60 26)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">CRM System</tspan></text>
+            <g id="Icon-5" data-name="Icon" transform="translate(30 10)">
+              <rect id="Mask-8" data-name="Mask" width="20" height="20" rx="4" fill="#ffc200"/>
+              <g id="Icon-6" data-name="Icon" clip-path="url(#clip-path)">
+                <path id="Rectangle_2_Copy" data-name="Rectangle 2 Copy" d="M1.008,3.864l2.85-2.851a3.457,3.457,0,0,1,4.882-.006l.006.006L11.6,3.864a3.44,3.44,0,0,1,0,4.865L8.746,11.58a3.457,3.457,0,0,1-4.882.006l-.006-.006L1.008,8.729A3.44,3.44,0,0,1,1.008,3.864Z" transform="translate(11.424 15.378)" fill="red"/>
+                <path id="Rectangle_2_Copy_2-3" data-name="Rectangle 2 Copy 2" d="M1.008,3.864l2.85-2.851a3.457,3.457,0,0,1,4.882-.006l.006.006L11.6,3.864a3.44,3.44,0,0,1,0,4.865L8.746,11.58a3.457,3.457,0,0,1-4.882.006l-.006-.006L1.008,8.729A3.44,3.44,0,0,1,1.008,3.864Z" transform="translate(2.479 1.904)" fill="#753ad7"/>
+              </g>
+            </g>
+          </g>
+          <g id="Item-4" data-name="Item" transform="translate(0 28)">
+            <rect id="Invisible_Base-8" data-name="Invisible Base" width="270" height="40" fill="rgba(255,255,255,0)"/>
+            <text id="Dashboard_UI_Kit" data-name="Dashboard UI Kit" transform="translate(60 26)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Dashboard UI Kit</tspan></text>
+            <g id="Icon-7" data-name="Icon" transform="translate(30 10)">
+              <rect id="Mask-9" data-name="Mask" width="20" height="20" rx="4" fill="#ffc200"/>
+              <g id="Icon-8" data-name="Icon" clip-path="url(#clip-path)">
+                <path id="Rectangle" d="M8.3,0h5.932V10.662l-.933.065C9.3,11.005,5.515,2.887,8.3,0Z" transform="translate(6.255 -0.368)" fill="red"/>
+                <path id="Oval-10" data-name="Oval" d="M5.772,15.806c3.791,0,0-4.394,8.592-5.29S27.621,0,23.83,0,0,3.865,0,7.476,1.98,15.806,5.772,15.806Z" transform="translate(-12.382 12.097)" fill="#753ad7"/>
+              </g>
+            </g>
+          </g>
+          <text id="Projects-2" data-name="Projects" transform="translate(30 13)" fill="#878787" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">PROJECTS</tspan></text>
+        </g>
+        <g id="Menu" transform="translate(0 259)">
+          <g id="Item-5" data-name="Item" transform="translate(0 107.441)">
+            <rect id="Invisible_Base-9" data-name="Invisible Base" width="270" height="39.793" fill="rgba(255,255,255,0)"/>
+            <text id="Notifications" transform="translate(30 26)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Notifications</tspan></text>
+            <g id="Count" transform="translate(122.251 10.58)">
+              <circle id="Oval-11" data-name="Oval" cx="9.948" cy="9.948" r="9.948" transform="translate(0 0)" fill="#ffc200"/>
+              <text id="_3" data-name="3" transform="translate(6 14.448)" fill="#131313" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">3</tspan></text>
+            </g>
+          </g>
+          <g id="Item-6" data-name="Item" transform="translate(0 67.648)">
+            <rect id="Invisible_Base-10" data-name="Invisible Base" width="270" height="39.793" fill="rgba(255,255,255,0)"/>
+            <text id="My_Tasks" data-name="My Tasks" transform="translate(30 26)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">My Tasks</tspan></text>
+          </g>
+          <g id="Item-7" data-name="Item" transform="translate(0 28.85)">
+            <rect id="Invisible_Base-11" data-name="Invisible Base" width="270" height="39.793" fill="rgba(255,255,255,0)"/>
+            <text id="Home" transform="translate(30 25)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Home</tspan></text>
+          </g>
+          <text id="Menu-2" data-name="Menu" transform="translate(30 13)" fill="#878787" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">MENU</tspan></text>
+        </g>
+        <g id="Stats" transform="translate(30 184)">
+          <g id="Open_Tasks" data-name="Open Tasks" transform="translate(114 -3)">
+            <text id="Open_Tasks-2" data-name="Open Tasks" transform="translate(0 40)" fill="#fff" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">Open Tasks</tspan></text>
+            <text id="_11" data-name="11" transform="translate(0 21)" fill="#fff" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">11</tspan></text>
+          </g>
+          <g id="Completed_Tasks" data-name="Completed Tasks" transform="translate(0 -3)">
+            <text id="Completed_Tasks-2" data-name="Completed Tasks" transform="translate(0 40)" fill="#fff" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">Completed Tasks</tspan></text>
+            <text id="_372" data-name="372" transform="translate(0 21)" fill="#fff" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">372</tspan></text>
+          </g>
+        </g>
+        <g id="User_Info" data-name="User Info" transform="translate(0 84)">
+          <rect id="Base-2" data-name="Base" width="270" height="80" transform="translate(0 -0.207)" fill="#202020"/>
+          <path id="More_Icon-2" data-name="More Icon" d="M12,2a2,2,0,1,1,2,2A2,2,0,0,1,12,2ZM6,2A2,2,0,1,1,8,4,2,2,0,0,1,6,2ZM0,2A2,2,0,1,1,2,4,2,2,0,0,1,0,2Z" transform="translate(234 38)" fill="#9b9b9b"/>
+          <circle id="Userpic" cx="24" cy="24" r="24" transform="translate(30 16)" fill="url(#pattern-10)"/>
+          <g id="Name" transform="translate(93 20)">
+            <text id="Product_Owner" data-name="Product Owner" transform="translate(0 34)" fill="#9b9b9b" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Product Owner</tspan></text>
+            <text id="Emilee_Simchenko" data-name="Emilee Simchenko" transform="translate(0 15)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Emilee Simchenko</tspan></text>
+          </g>
+        </g>
+        <g id="Top" transform="translate(30.406 30)">
+          <g id="Logo">
+            <text id="Company_Name" data-name="Company Name" transform="translate(34.594 17)" fill="#fff" font-size="16" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">PROJECTUS</tspan></text>
+            <path id="Logo-2" data-name="Logo" d="M3.1,18.518l-2.7-2.7a1.351,1.351,0,0,1,1.911-1.911l1.745,1.746L8.5,11.2a1.353,1.353,0,0,1,1.913,1.913l-5.4,5.4a1.355,1.355,0,0,1-1.911,0Zm11.762-2.308a1.351,1.351,0,1,1,0-2.7h5.4a1.351,1.351,0,1,1,0,2.7ZM3.1,7.708l-2.7-2.7A1.351,1.351,0,1,1,2.306,3.1L4.051,4.844,8.5.394a1.352,1.352,0,0,1,1.913,1.912l-5.4,5.4a1.355,1.355,0,0,1-.957.4A1.336,1.336,0,0,1,3.1,7.708ZM14.859,5.4a1.351,1.351,0,0,1,0-2.7h5.4a1.351,1.351,0,0,1,0,2.7Z" transform="translate(0 2.543)" fill="#ffc200"/>
+          </g>
+          <path id="Search" d="M14.663,16a1.328,1.328,0,0,1-.945-.392l-3.477-3.477a.294.294,0,0,1-.027-.032c-.007-.009-.014-.018-.021-.026a6.578,6.578,0,1,1,1.88-1.88l.026.021a.306.306,0,0,1,.033.028l3.476,3.476A1.337,1.337,0,0,1,14.663,16ZM6.578,2.281a4.3,4.3,0,1,0,4.3,4.3A4.3,4.3,0,0,0,6.578,2.281Z" transform="translate(203.594 3)" fill="#fff" opacity="0.5"/>
+        </g>
+      </g>
+    </g>
+    <g id="Chat_Opened" data-name="Chat Opened" transform="translate(775 166)">
+      <rect id="Base-3" data-name="Base" width="635" height="958" rx="8" fill="#fff"/>
+      <g id="Discussion" transform="translate(30 134)">
+        <g id="Comment" transform="translate(0 166)">
+          <rect id="Base-4" data-name="Base" width="551" height="164" rx="10" transform="translate(24)" fill="#f7f6f3"/>
+          <g id="Description" transform="translate(63 102)">
+            <g id="Png_File" data-name="Png File">
+              <text id="Header.png" transform="translate(50 15)" fill="#131313" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Header.png</tspan></text>
+              <rect id="Base-5" data-name="Base" width="40" height="40" rx="8" transform="translate(0 1)" stroke="#fff" stroke-miterlimit="10" stroke-width="2" fill="url(#pattern-11)"/>
+              <text id="_129_KB" data-name="129 KB" transform="translate(50 36)" fill="#131313" font-size="14" font-family="SegoeUI, Segoe UI" opacity="0.7"><tspan x="0" y="0">129 KB</tspan></text>
+            </g>
+          </g>
+          <text id="_Helena_Software_qua" data-name="@Helena Software qua" transform="translate(63 44)" fill="#ffc200" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="16">@Helena</tspan><tspan y="16" xml:space="preserve" fill="#131313" font-family="SegoeUI, Segoe UI" font-weight="400"> Software quality assurance activity in which one or several </tspan><tspan x="0" y="36" fill="#131313" font-family="SegoeUI, Segoe UI" font-weight="400">humans check a program mainly </tspan></text>
+          <text id="Yesterday_at_12:37pm" data-name="Yesterday at 12:37pm" transform="translate(555 33)" fill="#131313" font-size="12" font-family="SegoeUI, Segoe UI" opacity="0.7"><tspan x="-113.051" y="0">Yesterday at 12:37pm</tspan></text>
+          <text id="Prescott_MacCaffery_" data-name="Prescott MacCaffery," transform="translate(63 37)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Prescott MacCaffery,</tspan></text>
+          <text id="Developer" transform="translate(219 37)" fill="#131313" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Developer</tspan></text>
+          <g id="Oval-12" data-name="Oval" transform="translate(0 20)" stroke="#fff" stroke-miterlimit="10" stroke-width="5" fill="url(#pattern-12)">
+            <circle cx="24" cy="24" r="24" stroke="none"/>
+            <circle cx="24" cy="24" r="26.5" fill="none"/>
+          </g>
+        </g>
+        <g id="Comment-2" data-name="Comment" transform="translate(0 44)">
+          <rect id="Base-6" data-name="Base" width="551" height="112" rx="10" transform="translate(24)" fill="#f7f6f3"/>
+          <text id="During_a_project_bui" data-name="During a project bui" transform="translate(63 44)" fill="#131313" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="16">During a project build, it is necessary to evaluate the product design and </tspan><tspan x="0" y="36">development against project requirements and outcomes</tspan></text>
+          <text id="Yesterday_at_12:37pm-2" data-name="Yesterday at 12:37pm" transform="translate(555 33)" fill="#131313" font-size="12" font-family="SegoeUI, Segoe UI" opacity="0.7"><tspan x="-113.051" y="0">Yesterday at 12:37pm</tspan></text>
+          <text id="Helena_Brauer_" data-name="Helena Brauer," transform="translate(63 37)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Helena Brauer,</tspan></text>
+          <text id="Designer" transform="translate(172 37)" fill="#131313" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Designer</tspan></text>
+          <g id="Oval-13" data-name="Oval" transform="translate(0 20)" stroke="#fff" stroke-miterlimit="10" stroke-width="5" fill="url(#pattern-13)">
+            <circle cx="24" cy="24" r="24" stroke="none"/>
+            <circle cx="24" cy="24" r="26.5" fill="none"/>
+          </g>
+        </g>
+        <g id="Message" transform="translate(0 745)">
+          <g id="Input" transform="translate(58 3.191)">
+            <rect id="Base-7" data-name="Base" width="517" height="40" rx="4" transform="translate(0 0.809)" fill="#eaeaea"/>
+            <path id="Base-8" data-name="Base" d="M4,0H40a0,0,0,0,1,0,0V40a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(0 0.809)" fill="#e0e0e0"/>
+            <text id="Message-2" data-name="Message" transform="translate(50 25.809)" fill="#131313" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">Message</tspan></text>
+            <path id="_" data-name="+" d="M12,7.449H7.731V12H4.3V7.449H0V4.37H4.3V0H7.731V4.37H12Z" transform="translate(14 14.809)" fill="#131313" opacity="0.5"/>
+          </g>
+          <circle id="Userpic-2" data-name="Userpic" cx="24" cy="24" r="24" transform="translate(0 0.191)" fill="url(#pattern-10)"/>
+        </g>
+        <text id="Yesterday" transform="translate(287.5 17)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-43.422" y="0">YESTERDAY</tspan></text>
+        <g id="Comment-3" data-name="Comment" transform="translate(0 404)">
+          <rect id="Base-9" data-name="Base" width="551" height="88" rx="10" transform="translate(24)" fill="#f7f6f3"/>
+          <text id="Well_Done_" data-name="Well Done!" transform="translate(63 44)" fill="#131313" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="16">Well Done!</tspan></text>
+          <text id="_3min_ago" data-name="3min ago" transform="translate(555 33)" fill="#131313" font-size="12" font-family="SegoeUI, Segoe UI" opacity="0.7"><tspan x="-49.992" y="0">3min ago</tspan></text>
+          <text id="Abhoy_Latif_" data-name="Abhoy Latif," transform="translate(63 37)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Abhoy Latif,</tspan></text>
+          <text id="Designer-2" data-name="Designer" transform="translate(152 37)" fill="#131313" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Designer</tspan></text>
+          <g id="Oval-14" data-name="Oval" transform="translate(0 20)" stroke="#fff" stroke-miterlimit="10" stroke-width="5" fill="url(#pattern-15)">
+            <circle cx="24" cy="24" r="24" stroke="none"/>
+            <circle cx="24" cy="24" r="26.5" fill="none"/>
+          </g>
+        </g>
+        <text id="Today" transform="translate(287.5 377)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-26.113" y="0">TODAY</tspan></text>
+      </g>
+      <rect id="Divider" width="635" height="1" transform="translate(0 113)" fill="#ececec"/>
+      <rect id="Divider-2" data-name="Divider" width="635" height="1" transform="translate(0 852)" fill="#ececec"/>
+      <g id="Top-2" data-name="Top" transform="translate(30 30)">
+        <g id="More" transform="translate(535 4)">
+          <rect id="Base-10" data-name="Base" width="40" height="40" rx="20" fill="#eaeaea"/>
+          <path id="More_Icon-3" data-name="More Icon" d="M13.5,2.25A2.25,2.25,0,1,1,15.75,4.5,2.25,2.25,0,0,1,13.5,2.25Zm-6.75,0A2.25,2.25,0,1,1,9,4.5,2.25,2.25,0,0,1,6.75,2.25ZM0,2.25A2.25,2.25,0,1,1,2.25,4.5,2.25,2.25,0,0,1,0,2.25Z" transform="translate(11 18.902)" fill="#9b9b9b"/>
+        </g>
+        <g id="Group" transform="translate(0 43)">
+          <circle id="Pic" cx="10" cy="10" r="10" fill="url(#pattern-16)"/>
+          <circle id="Pic-2" data-name="Pic" cx="10" cy="10" r="10" transform="translate(25)" fill="url(#pattern-17)"/>
+          <circle id="Pic-3" data-name="Pic" cx="10" cy="10" r="10" transform="translate(50)" fill="url(#pattern-18)"/>
+          <g id="Add" transform="translate(75)">
+            <circle id="Oval-15" data-name="Oval" cx="10" cy="10" r="10" transform="translate(0.435)" fill="#eaeaea"/>
+            <path id="_2" data-name="+" d="M9,5.587H5.8V9H3.228V5.587H0V3.277H3.228V0H5.8V3.277H9Z" transform="translate(5.935 5.5)" fill="#9b9b9b"/>
+          </g>
+        </g>
+        <text id="_other" data-name="#other" transform="translate(0 27)" fill="#131313" font-size="26" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">#other</tspan></text>
+      </g>
+    </g>
+    <g id="Threads" transform="translate(300 166)">
+      <rect id="Base-11" data-name="Base" width="445" height="958" rx="8" fill="#fff"/>
+      <g id="Scroll_Bar" data-name="Scroll Bar" transform="translate(457)">
+        <rect id="Base-12" data-name="Base" width="6" height="958" rx="3" fill="#fff"/>
+        <rect id="Scroll" width="6" height="90" rx="3" fill="#dcd9d3"/>
+      </g>
+      <g id="Chats" transform="translate(30 30)">
+        <g id="Chat_Item" data-name="Chat Item" transform="translate(0 373)">
+          <rect id="Base-13" data-name="Base" width="385" height="122" rx="10" transform="translate(0 7)" fill="#f7f6f3"/>
+          <circle id="Oval-16" data-name="Oval" cx="15" cy="15" r="15" transform="translate(369 0)" fill="#ffc200"/>
+          <text id="_1" data-name="1" transform="translate(379 20)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">1</tspan></text>
+          <g id="Pic-4" data-name="Pic" transform="translate(30 27)" stroke="#fff" stroke-miterlimit="10" stroke-width="2" fill="url(#pattern-19)">
+            <circle cx="10" cy="10" r="10" stroke="none"/>
+            <circle cx="10" cy="10" r="11" fill="none"/>
+          </g>
+          <circle id="Status" cx="5" cy="5" r="5" transform="translate(15 32)" fill="#90d782"/>
+          <text id="Text" transform="translate(30 55)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="19">E-mail after registration so that I can </tspan><tspan x="0" y="46">confirm my address</tspan></text>
+          <text id="Name-2" data-name="Name" transform="translate(60 47)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Azah Anyeni</tspan></text>
+          <text id="Time" transform="translate(365 47)" fill="#131313" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-42.875" y="0">3h ago</tspan></text>
+        </g>
+        <g id="Chat_Item-2" data-name="Chat Item" transform="translate(0 512)">
+          <rect id="Base-14" data-name="Base" width="385" height="122" rx="10" fill="#f7f6f3"/>
+          <g id="Pic-5" data-name="Pic" transform="translate(30 20)" stroke="#fff" stroke-miterlimit="10" stroke-width="2" fill="url(#pattern-20)">
+            <circle cx="10" cy="10" r="10" stroke="none"/>
+            <circle cx="10" cy="10" r="11" fill="none"/>
+          </g>
+          <text id="Text-2" data-name="Text" transform="translate(30 48)" fill="#131313" font-size="18" font-family="SegoeUI, Segoe UI" opacity="0.8"><tspan x="0" y="19">Could you provide an invoice for the last </tspan><tspan x="0" y="46">payment?</tspan></text>
+          <text id="Name-3" data-name="Name" transform="translate(60 40)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Riley Cooper</tspan></text>
+          <text id="Time-2" data-name="Time" transform="translate(365 40)" fill="#131313" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-42.875" y="0">7h ago</tspan></text>
+        </g>
+        <g id="Chat_Item-3" data-name="Chat Item" transform="translate(0 644)">
+          <rect id="Base-15" data-name="Base" width="385" height="122" rx="10" fill="#f7f6f3"/>
+          <g id="Pic-6" data-name="Pic" transform="translate(30 20)" stroke="#fff" stroke-miterlimit="10" stroke-width="2" fill="url(#pattern-21)">
+            <circle cx="10" cy="10" r="10" stroke="none"/>
+            <circle cx="10" cy="10" r="11" fill="none"/>
+          </g>
+          <text id="Text-3" data-name="Text" transform="translate(30 48)" fill="#131313" font-size="18" font-family="SegoeUI, Segoe UI" opacity="0.8"><tspan x="0" y="19">Need to talk you latter. Ceo will be there </tspan><tspan x="0" y="46">in 30 mins</tspan></text>
+          <text id="Name-4" data-name="Name" transform="translate(60 40)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Santiago Valentín</tspan></text>
+          <text id="Time-3" data-name="Time" transform="translate(365 40)" fill="#131313" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-43.196" y="0">1d ago</tspan></text>
+        </g>
+        <g id="Chat_Item-4" data-name="Chat Item" transform="translate(0 776)">
+          <rect id="Base-16" data-name="Base" width="385" height="122" rx="10" fill="#f7f6f3"/>
+          <g id="Pic-7" data-name="Pic" transform="translate(30 20)" stroke="#fff" stroke-miterlimit="10" stroke-width="2" fill="url(#pattern-22)">
+            <circle cx="10" cy="10" r="10" stroke="none"/>
+            <circle cx="10" cy="10" r="11" fill="none"/>
+          </g>
+          <circle id="Status-2" data-name="Status" cx="5" cy="5" r="5" transform="translate(15 25)" fill="#90d782"/>
+          <text id="Text-4" data-name="Text" transform="translate(30 48)" fill="#131313" font-size="18" font-family="SegoeUI, Segoe UI" opacity="0.8"><tspan x="0" y="19">A new feature has benn updated to your </tspan><tspan x="0" y="46">account. Check it out now</tspan></text>
+          <text id="Name-5" data-name="Name" transform="translate(60 40)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Xu Xuefeng</tspan></text>
+          <text id="Time-4" data-name="Time" transform="translate(365 40)" fill="#131313" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-43.196" y="0">1d ago</tspan></text>
+        </g>
+        <text id="Direct_Messages" data-name="Direct Messages" transform="translate(0.004 352)" fill="#131313" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Direct Messages</tspan></text>
+        <g id="Chat_Item-5" data-name="Chat Item" transform="translate(0 170)">
+          <rect id="Base-17" data-name="Base" width="385" height="122" rx="10" transform="translate(0 9)" fill="#fff8dd"/>
+          <circle id="Pic-8" data-name="Pic" cx="10" cy="10" r="10" transform="translate(88 29)" stroke="#fff" stroke-miterlimit="10" stroke-width="2" fill="url(#pattern-16)"/>
+          <circle id="Pic-9" data-name="Pic" cx="10" cy="10" r="10" transform="translate(113 29)" stroke="#fff" stroke-miterlimit="10" stroke-width="2" fill="url(#pattern-17)"/>
+          <circle id="Pic-10" data-name="Pic" cx="10" cy="10" r="10" transform="translate(138 29)" stroke="#fff" stroke-miterlimit="10" stroke-width="2" fill="url(#pattern-18)"/>
+          <g id="Count-2" data-name="Count" transform="translate(369)">
+            <circle id="Oval-17" data-name="Oval" cx="15" cy="15" r="15" transform="translate(0 0)" fill="#ffc200"/>
+            <text id="_3-2" data-name="3" transform="translate(10 20)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">3</tspan></text>
+          </g>
+          <text id="Text-5" data-name="Text" transform="translate(30 57)" fill="#131313" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="19">Software quality assurance activity in </tspan><tspan x="0" y="46">which one or several humans…</tspan></text>
+          <text id="Name-6" data-name="Name" transform="translate(30 49)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">#other</tspan></text>
+          <text id="Time-5" data-name="Time" transform="translate(365 49)" fill="#131313" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-65.871" y="0">20min ago</tspan></text>
+        </g>
+        <text id="Channels" transform="translate(0.004 151)" fill="#131313" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Channels</tspan></text>
+        <g id="Search-2" data-name="Search" transform="translate(0 60)">
+          <rect id="Field" width="385" height="40" rx="4" fill="#eaeaea"/>
+          <path id="Search-3" data-name="Search" d="M14.663,16a1.328,1.328,0,0,1-.945-.392l-3.477-3.477a.294.294,0,0,1-.027-.032c-.007-.009-.014-.018-.021-.026a6.578,6.578,0,1,1,1.88-1.88l.026.021a.306.306,0,0,1,.033.028l3.476,3.476A1.337,1.337,0,0,1,14.663,16ZM6.578,2.281a4.3,4.3,0,1,0,4.3,4.3A4.3,4.3,0,0,0,6.578,2.281Z" transform="translate(15 12)" opacity="0.5"/>
+          <text id="Search-4" data-name="Search" transform="translate(46 25)" fill="#131313" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.5"><tspan x="0" y="0">Search</tspan></text>
+        </g>
+        <g id="Title">
+          <g id="Green_Button" data-name="Green Button" transform="translate(274.004)" clip-path="url(#clip-path-5)">
+            <g id="Button" transform="translate(-0.004)">
+              <rect id="Base-18" data-name="Base" width="110" height="40" rx="20" transform="translate(0.004)" fill="#cef9c6"/>
+              <text id="_Add_Task" data-name="+ Add Task" transform="translate(55.004 25)" fill="#1d201c" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-31.903" y="0">New Chat</tspan></text>
+            </g>
+          </g>
+          <text id="Threads-2" data-name="Threads" transform="translate(0.004 27)" fill="#131313" font-size="26" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Threads</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Top-3" data-name="Top" transform="translate(270)">
+      <g id="Project_Header" data-name="Project Header" clip-path="url(#clip-path-6)">
+        <rect id="Base-19" data-name="Base" width="1170" height="136" fill="#fff"/>
+        <g id="Project_Header-2" data-name="Project Header" transform="translate(30 35)">
+          <g id="Members" transform="translate(832 9)">
+            <circle id="Pic-11" data-name="Pic" cx="15" cy="15" r="15" fill="url(#pattern-26)"/>
+            <circle id="Pic-12" data-name="Pic" cx="15" cy="15" r="15" transform="translate(35)" fill="url(#pattern-27)"/>
+            <circle id="Pic-13" data-name="Pic" cx="15" cy="15" r="15" transform="translate(70)" fill="url(#pattern-28)"/>
+            <g id="Share_Button" data-name="Share Button" transform="translate(115 1)">
+              <rect id="Base-20" data-name="Base" width="67" height="30" rx="15" fill="#eaeaea"/>
+              <text id="Share" transform="translate(15 19)" fill="#131313" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Share</tspan></text>
+            </g>
+            <g id="Chat_Button" data-name="Chat Button" transform="translate(197 1)">
+              <rect id="Base-21" data-name="Base" width="81" height="30" rx="15" fill="#fff8dd"/>
+              <text id="Chat-2" data-name="Chat" transform="translate(36 20)" fill="#ffc200" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Chat</tspan></text>
+              <path id="Combined_Shape" data-name="Combined Shape" d="M5.177,12.121c.12.006.24.011.362.011a6.588,6.588,0,0,0,6.593-6.593c0-.122,0-.242-.01-.362a5.54,5.54,0,0,1,2.915,8.406l.727,2.182-2.182-.727a5.54,5.54,0,0,1-8.406-2.916ZM2.417,10.114l-2.183.727L.963,8.659a5.535,5.535,0,1,1,1.454,1.455Z" transform="translate(15 7)" fill="#ffc200"/>
+            </g>
+          </g>
+          <g id="More-2" data-name="More" transform="translate(331 10)">
+            <rect id="Base-22" data-name="Base" width="30" height="30" rx="15" fill="#eaeaea"/>
+            <path id="More_Icon-4" data-name="More Icon" d="M12,2a2,2,0,1,1,2,2A2,2,0,0,1,12,2ZM6,2A2,2,0,1,1,8,4,2,2,0,0,1,6,2ZM0,2A2,2,0,1,1,2,4,2,2,0,0,1,0,2Z" transform="translate(7 13)" fill="#9b9b9b"/>
+          </g>
+          <g id="Title-2" data-name="Title">
+            <text id="Website_Redesign-2" data-name="Website Redesign" transform="translate(55)" fill="#131313" font-size="32" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="35">Website </tspan></text>
+            <g id="Icon-9" data-name="Icon" transform="translate(0 4.547)">
+              <rect id="Mask-10" data-name="Mask" width="40" height="40" rx="8" fill="#ffc200"/>
+              <g id="Icon-10" data-name="Icon" clip-path="url(#clip-path-7)">
+                <g id="Shapes-2" data-name="Shapes" transform="translate(-3 -18.753)">
+                  <path id="Rectangle_2_Copy_2-4" data-name="Rectangle 2 Copy 2" d="M.058,4.028a4,4,0,0,1,4-4L31.31,0a4,4,0,0,1,4,4l-.058,47.936a4,4,0,0,1-4,4L4,55.969a4,4,0,0,1-4-4Z" transform="matrix(0.839, -0.545, 0.545, 0.839, 22.665, 19.418)" fill="#753ad7"/>
+                  <g id="Oval_4_Copy-2" data-name="Oval 4 Copy" transform="translate(0.598 30.267)" fill="none" stroke="red" stroke-miterlimit="10" stroke-width="6">
+                    <ellipse cx="15.328" cy="15.369" rx="15.328" ry="15.369" stroke="none"/>
+                    <ellipse cx="15.328" cy="15.369" rx="12.328" ry="12.369" fill="none"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Tabs" transform="translate(30 102)">
+        <text id="Tasks" transform="translate(0 17)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.7"><tspan x="0" y="0">Tasks</tspan></text>
+        <text id="Kanban" transform="translate(73 17)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.7"><tspan x="0" y="0">Kanban</tspan></text>
+        <text id="Activity" transform="translate(158 17)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.7"><tspan x="0" y="0">Activity</tspan></text>
+        <text id="Calendar" transform="translate(243 17)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.7"><tspan x="0" y="0">Calendar</tspan></text>
+        <text id="Files" transform="translate(338 17)" fill="#131313" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" opacity="0.7"><tspan x="0" y="0">Files</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

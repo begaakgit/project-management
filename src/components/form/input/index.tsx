@@ -15,7 +15,7 @@ export class Input extends Component<IPropsInput, IStateInput> {
                 {
                 this.props.values.map((item, index) => {
                     return (
-                        <div className="form-group">
+                        <div key={index} className="form-group">
                             <label htmlFor={item['id']}>{item['label']}</label>
                             <input type={item['type']} name={item['name']}  className="form-control" id={item['id']} placeholder={item['placeholder']}/>
                         </div>
